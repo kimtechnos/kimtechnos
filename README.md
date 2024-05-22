@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Francis Kimani and I'm a  full-stack developer, from Kenya</p>
+<p align="left">My name is <b>Francis Kimani <b> and I'm a  full-stack developer, from Kenya</p>
 
 ###
 
