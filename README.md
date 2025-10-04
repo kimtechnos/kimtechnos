@@ -6,15 +6,24 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">✨ About Me</h2>
 
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2022<br>
-  📚 I'm currently learning full-stack development, including both front-end and back-end technologies. I'm also working on hands-on projects to apply my knowledge in real-world scenarios.<br>
-  🎯 Goals: To become a proficient full-stack developer and contribute to impactful projects.<br>
-  🎲 Fun fact: I enjoy debugging code almost as much as writing it!
+🚀 Full-Stack Developer | MERN & PERN Enthusiast
+
+💻 Building real-world web solutions since 2022.
+
+🎓 Completed a full-stack development cohort covering both front-end and back-end.
+
+🧠 Advanced from PERN to MERN stack while diving deeper into modern web technologies.
+
+🧩 I love creating scalable apps, automating workflows, and writing clean code.
+
+🎯 Goal: To grow into a senior full-stack engineer and deliver impactful projects.
+
+⚡ Fun fact: Debugging feels like solving a mystery—and I never quit until I find the bug.
 </p>
 
 ###
